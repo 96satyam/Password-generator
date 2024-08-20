@@ -1,1 +1,1 @@
-# Password-generator
+Pomodoro Application
